@@ -20,12 +20,9 @@ Your users should be able to:
 - See hover and focus states for all interactive elements on the page
 
 ## Built with
-
-- HTML
-- JavaScript
-- CSS
+- Svelte
 
 ## Links
 
-- [Solution](https://github.com/LandonRGeorge/fem-contact-form)
-- [Live Site](https://landonrgeorge.github.io/fem-contact-form/)
+- [Solution](https://github.com/LandonRGeorge/fem-contact-form-svelte/tree/main)
+- [Live Site](https://heartfelt-palmier-4e35f9.netlify.app/)
